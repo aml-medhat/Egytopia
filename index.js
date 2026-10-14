@@ -1,4 +1,4 @@
-// EGYHome.js - COMPLETE UPDATED VERSION WITH ALL NAVIGATION
+// index.js - COMPLETE UPDATED VERSION WITH ALL NAVIGATION
 
 // Cart and wishlist will now be managed by window.cartManager
 // Remove local cartItems and wishlistItems variables
